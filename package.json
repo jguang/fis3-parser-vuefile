@@ -1,0 +1,23 @@
+{
+  "name": "fis3-parser-vuefile",
+  "version": "1.0.0",
+  "description": "fis支持vue单文件解析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguang/fis3-parser-vuefile.git"
+  },
+  "keywords": [
+    "fis3",
+    "vue"
+  ],
+  "author": "jguang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jguang/fis3-parser-vuefile/issues"
+  },
+  "homepage": "https://github.com/jguang/fis3-parser-vuefile#readme"
+}
