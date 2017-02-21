@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-vuefile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fis支持vue单文件解析",
   "main": "index.js",
   "scripts": {

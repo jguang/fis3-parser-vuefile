@@ -206,7 +206,7 @@ module.exports = function(content, file, conf) {
     }
   });
 
-  if (configs.cssMode === 'inline'){
+  if (configs.cssMode === 'inline' && styleAry.length){
     scriptStr += inlineCssFunction(styleAry.join('\n'), file.getId() + vuecId);
   }
 
